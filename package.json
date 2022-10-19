@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cloudcare-stack/nodejs/issues"
   },
-  "homepage": "https://github.com/cloudcare-stack/nodejs#readme"
+  "homepage": "https://github.com/cloudcare-stack/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
